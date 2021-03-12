@@ -1,31 +1,29 @@
-# learngit
+---
+description: hello
+---
 
-## 创建部门
+# CC-SDK iOS
 
-测试钉钉webhook功能
+## Getting Super Powers
 
-## 更新部门
+Becoming a super hero is a fairly straight forward process:
 
-```objectivec
-NSString *text;
-
+```
+$ give me super-powers
 ```
 
 {% hint style="info" %}
  Super-powers are granted randomly so please submit an issue if you're not happy with yours.
 {% endhint %}
 
-{% tabs %}
-{% tab title="OC" %}
-```objectivec
-NSString *text = [NSString string];
+## Once you're strong enough, save the world:
+
+{% code title="hello.sh" %}
+```bash
+# Ain't no code for that yet, sorry
+echo 'You got to trust me on this, I saved the world'
 ```
-{% endtab %}
-
-{% tab title="Java" %}
-
-{% endtab %}
-{% endtabs %}
+{% endcode %}
 
 
 
